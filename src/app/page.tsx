@@ -1,4 +1,4 @@
-'use client'; // <- Adicione esta linha no topo do seu arquivo
+'use client'; 
 
 import Sidebar from "@/components/sidebar";
 import { Component } from "react";
