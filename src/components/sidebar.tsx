@@ -14,10 +14,10 @@ class Sidebar extends Component {
                   <a href="/clientes">Clientes</a>
                 </li>
                 <li className="text-gray-300 hover:text-white transition cursor-pointer">
-                  Produtos/Serviços
+                  <a href="/produtos">Produtos</a>
                 </li>
                 <li className="text-gray-300 hover:text-white transition cursor-pointer">
-                  Consumo
+                  <a href="/servicos">Serviços</a>
                 </li>
                 <li className="text-gray-300 hover:text-white transition cursor-pointer">
                   Relatórios
