@@ -13,7 +13,7 @@ class TableServico extends Component {
       <div>
         <div className="flex justify-center">
             <h1 className="text-blue-600 text-3xl font-bold mb-4">Lista Serviço</h1>
-        </div>
+        </div> 
         <div className="overflow-x-auto w-full">
             <table className="min-w-full border text-center text-black bg-white rounded shadow">
             <thead className="bg-blue-100 text-blue-900">

@@ -4,7 +4,7 @@ import { Component,  } from "react";
 class Sidebar extends Component {
     render() {
         return (
-            <aside className="w-62 min-h-screen bg-gray-900 text-white p-6">
+            <aside className="fixed top-0 left-0 h-screen w-64 bg-gray-900 text-white p-6 z-50">
             <div className="mb-10">
               <a href="/" className="text-2xl font-bold">Grupo WB</a>
             </div>
@@ -20,7 +20,7 @@ class Sidebar extends Component {
                   <a href="/servicos">Serviços</a>
                 </li>
                 <li className="text-gray-300 hover:text-white transition cursor-pointer">
-                  Relatórios
+                  <a href="/relatorios">Relatórios</a>
                 </li>
               </ul>
             </nav>

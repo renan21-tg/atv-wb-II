@@ -3,7 +3,6 @@ import Card from "@/components/card";
 import AtlProduto from "@/components/Forms/AtlProduto";
 import CadProduto from "@/components/Forms/CadProduto";
 import ExcProduto from "@/components/Forms/ExcProduto";
-import TableCliente from "@/components/Table/TableCliente";
 import TableProduto from "@/components/Table/TableProduto";
 import { Component } from "react";
 
