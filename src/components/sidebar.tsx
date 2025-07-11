@@ -22,6 +22,9 @@ class Sidebar extends Component {
                 <li className="text-gray-300 hover:text-white transition cursor-pointer">
                   <a href="/relatorios">Relatórios</a>
                 </li>
+                <li className="text-gray-300 hover:text-white transition cursor-pointer">
+                  <a href="/consumo">Consumo</a>
+                </li>
               </ul>
             </nav>
           </aside>
